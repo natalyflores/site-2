@@ -1,0 +1,39 @@
+body {
+  background-color: #000407;
+}
+
+h1 {
+  color: #f8c3f7;
+  margin-left: 300px;
+}
+
+#plants {
+  padding: 10px;
+  border: 5px solid #128c7e;
+  background: #8fb0ff;
+  width: 100px;
+  height:25px;
+  margin: 10px;
+  margin-left: 390px;
+}
+#rcorners1 {
+border-radius: 30px;
+ background: #aa84c5;
+ padding: 20px;
+ width: 200px;
+ height: 30px;
+ color: #1d4059;
+ margin-left: 330px;
+ margin-bottom: 10px;
+}
+#gradient {
+height: 100px;
+ background-color: #00d81d;
+ background-image: linear-gradient(#718bfe, #fc9fff);
+}
+#shadow {
+  text-shadow: 1px 1px;
+  color: white;
+  margin-left: 370px;
+  margin-top: 10px;
+}
